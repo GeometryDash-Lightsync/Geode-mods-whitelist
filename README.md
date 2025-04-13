@@ -28,7 +28,7 @@ Since Lightsync now supports [Geode](https://geode-sdk.org), we decided to make 
 <summary>Integrated Mods</summary>
 
 * Godlike faces
-* Discord Rich Presence  
+* Discord Rich Presence (Different from the original mod)
 
 
 </details>
