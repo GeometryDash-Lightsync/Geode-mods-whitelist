@@ -19,7 +19,7 @@ Since Lightsync now supports [Geode](https://geode-sdk.org), we decided to make 
 * Golden Best
 * Improved Group View
 * GD Share
-
+* Startpos Switcher
 
 </details>
 
