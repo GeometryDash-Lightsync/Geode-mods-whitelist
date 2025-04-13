@@ -12,7 +12,6 @@ Since Lightsync now supports [Geode](https://geode-sdk.org), we decided to make 
 * Improved Link Controls
 * Better Progression
 * Run Info
-* More difficulties
 * Astral Projection
 * Level Info
 * Platformer Ghosts
